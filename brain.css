@@ -403,7 +403,7 @@ body {
     height: 100%;
   }
   .roundBig {
-    width: 70%;
+    width: 81%;
     height: 20%;
   }
   .roundSmall {
@@ -447,8 +447,9 @@ body {
     display: none;
   }
   .my2::before {
-    left: 25%;
-    width: 73%;
+    top: 50%;
+    left: 27%;
+    width: 70%;
   }
 
   /* Your mobile styles go here */
